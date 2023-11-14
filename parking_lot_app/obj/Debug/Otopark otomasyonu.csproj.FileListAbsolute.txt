@@ -1,0 +1,30 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAnaSayfa.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAraçOtoparkYerleri.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAraçOtoparkKaydı.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\bin\Debug\Otopark otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAnaSayfa.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAraçOtoparkKaydı.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAraçOtoparkYerleri.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmMarka.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmSeri.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmAraçOtoparkÇıkışı.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\1. sınıf 2. dönem dersleri\Görsel programlama\Otopark otomasyonu\Otopark otomasyonu\obj\Debug\Otopark_otomasyonu.frmSatış.resources
